@@ -27,7 +27,7 @@ I'm Ibukun, an IT Professional with a background in Technical Support and Operat
 <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> -->
  
 
 </div>
@@ -66,14 +66,14 @@ I'm Ibukun, an IT Professional with a background in Technical Support and Operat
   
 <div align="left">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
- <table align="left" width="100%" height="100%" >
+ <!-- <table align="left" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibeksconde&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibeksconde&theme=merko" alt="Ibukun's Contribution Streak"/></td>
     </tr>
  </table>
 
- <table align="left" width="100%" height="100%" >
+ <!-- <table align="left" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ibeksconde&theme=github_dark" alt="Ibukun's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ibeksconde&theme=github_dark&utcOffset=10" alt="Ibukun's GitHub Stats"/>
@@ -81,7 +81,7 @@ I'm Ibukun, an IT Professional with a background in Technical Support and Operat
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ibeksconde&theme=github_dark" alt="Ibukun's GitHub Stats"/></td>
     </tr>
  </table>
-</div>
+</div> -->
 
 
 <a href="">
