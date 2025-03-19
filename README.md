@@ -1,14 +1,14 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<!-- <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> -->
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ibukun;My+name+means;God's+Blessing;This+is..;..my+Github+profile..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ibukun..;This+is..;..my+Github+profile..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
 <!-- <img src="" alt="banner that says Ibukun Adepoju-Conde - code newbie"> -->
-I'm Ibukun, an IT Professional with a background in Technical Support and Operations. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
+I'm an IT Professional with a background in Technical Support and Operations. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
 
 
 ## More About Me :woman:
@@ -17,7 +17,7 @@ I'm Ibukun, an IT Professional with a background in Technical Support and Operat
 
 :100: I believe in the gospel of Jesus; engaged in the mandate; preaching the gospel
 
-:star: Open to learning, feedback & corrections
+:star: Open to learning & feedback
 
 
 >*I enjoy road-tripping*
@@ -43,9 +43,9 @@ I'm Ibukun, an IT Professional with a background in Technical Support and Operat
     <img src="https://img.shields.io/badge/ibukunadepoju-conde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-- Contributing soon on: <a href="https://github.com/Ibeksconde?tab=followers">
+<!-- - Contributing soon on: <a href="https://github.com/Ibeksconde?tab=followers">
     <img src="https://img.shields.io/github/followers/Ibeksconde?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
+  </a> -->
 
 
 - Staying up-to-date via: <a href="http://twitter.com/ibukunconde">
