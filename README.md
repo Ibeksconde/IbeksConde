@@ -8,7 +8,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
 <!-- <img src="" alt="banner that says Ibukun Adepoju-Conde - code newbie"> -->
-I'm an IT Professional with a background in Technical Support and Operations Management. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
+I'm an IT Professional with a background in Technical Support and Operations Management, I have also been creating websites with WordPress since 2018. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
 
 
 ## More About Me :woman:
