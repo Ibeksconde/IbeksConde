@@ -8,7 +8,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
 <!-- <img src="" alt="banner that says Ibukun Adepoju-Conde - code newbie"> -->
-I'm an IT Professional with a background in Technical Support and Operations Management, I have also been creating websites with WordPress since 2018. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
+I'm an IT Professional with a background in Technical Support and Operations Management, I have also been creating websites with WordPress since 2018, and I do a bit of AI Automation. Exploring Frontend at the moment while journeying into Fullstack. Open to free or paid internships :wink: 
 
 
 ## More About Me :woman:
@@ -26,7 +26,6 @@ I'm an IT Professional with a background in Technical Support and Operations Man
 <p> I'm developing proficiency in:</p>
 <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
    <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> -->
  
 
@@ -48,9 +47,9 @@ I'm an IT Professional with a background in Technical Support and Operations Man
   </a> -->
 
 
-- Staying up-to-date via: <a href="http://twitter.com/ibukunconde">
-    <img src="https://img.shields.io/twitter/follow/ibukunconde?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+<!-- - Staying up-to-date via: <a href="http://twitter.com/ibukunconde"> -->
+  <!--  <img src="https://img.shields.io/twitter/follow/ibukunconde?label=Twitter&logo=twitter&style=for-the-badge" /> -->
+ <!-- </a> -->
 
 
 <!-- - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a> -->
