@@ -42,6 +42,8 @@ I'm an IT Professional with a background in Technical Support and Operations Man
     <img src="https://img.shields.io/badge/ibukunadepoju-conde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
+
 <!-- - Contributing soon on: <a href="https://github.com/Ibeksconde?tab=followers">
     <img src="https://img.shields.io/github/followers/Ibeksconde?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a> -->
