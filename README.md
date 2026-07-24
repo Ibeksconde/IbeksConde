@@ -26,7 +26,7 @@ I'm an IT Professional with a background in Technical Support and Operations Man
 <p> I'm developing proficiency in:</p>
 <div align="left">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> -->
+   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript"/>
  
 
 </div>
@@ -85,9 +85,9 @@ I'm an IT Professional with a background in Technical Support and Operations Man
 </div> -->
 
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ibeksconde&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a/>
+<!-- <a href="">
+    <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ibeksconde&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a/> -->
   
 ## 🏆 GitHub Trophies
 
