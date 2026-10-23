@@ -68,6 +68,9 @@ I'm an IT Professional with a background in Technical Support and Operations Man
 <div align="left">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibeksconde&exclude_days=Sun" alt="GitHub Streak" /></a>
+
+   [ [GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ibeksconde&layout=compact&langs_count=8&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Ibeksconde&layout=compact&langs_count=8&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Ibeksconde&layout=compact&langs_count=8&theme=light_github)
+ 
  <!-- <table align="left" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibeksconde&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
@@ -90,7 +93,7 @@ I'm an IT Professional with a background in Technical Support and Operations Man
     <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Ibeksconde&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a/> -->
   
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
 ![](https://github-profile-trophy.vercel.app/?username=Ibeksconde&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
