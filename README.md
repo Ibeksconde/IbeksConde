@@ -67,7 +67,7 @@ I'm an IT Professional with a background in Technical Support and Operations Man
   
 <div align="left">
 <h2 align="left" class="section-heading"> 💻 Github Stats</h2>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Ibeksconde)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibeksconde&exclude_days=Sun" alt="GitHub Streak" /></a>
  <!-- <table align="left" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibeksconde&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
